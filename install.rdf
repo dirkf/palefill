@@ -2,14 +2,14 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>palefill@addons.martoks-place.de</em:id>
-    <em:version>1.15</em:version>
+    <em:version>1.18</em:version>
     <em:type>2</em:type>
     <em:bootstrap>true</em:bootstrap>
     <em:strictCompatibility>true</em:strictCompatibility>
-    <em:name>Pale Moon Web Technologies Polyfill Add-On</em:name>
+    <em:name>Palefill Web Technologies Polyfill</em:name>
     <em:description>Inject Polyfills for various web technologies into pages requiring them</em:description>
     <em:creator>Martok</em:creator>
-    <em:homepageURL>https://github.com/martok/palefill</em:homepageURL>
+    <em:homepageURL>https://martok.github.io/palefill/</em:homepageURL>
     <em:updateURL>https://raw.githubusercontent.com/martok/palefill/master/update.xml</em:updateURL>
     <!-- Pale Moon -->
     <em:targetApplication>
